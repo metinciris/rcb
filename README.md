@@ -38,6 +38,8 @@ Bu projeyi çalıştırmak için Python ve Tkinter kütüphanesine ihtiyacınız
 3. Hesaplanan RCB skoru ve sınıfı ekranda görüntülenecektir.
 4. Girişleri sıfırlamak için "Sıfırla" düğmesine tıklayın.
 
+   ![screen](https://raw.githubusercontent.com/metinciris/rcb/main/printscreen.PNG)  
+
 ## Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını kontrol edin.
